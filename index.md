@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Software + AI Consulting"
+title: "NexHam — Software + AI Consulting"
 description: "NexHam builds production software and deploys AI-powered teams for businesses. Custom SaaS development, multi-agent AI deployment, and DevOps infrastructure in Kansas City."
 ---
 
@@ -9,7 +9,7 @@ description: "NexHam builds production software and deploys AI-powered teams for
     <h1>Software that works.<br><span class="accent">AI that delivers.</span></h1>
     <p>NexHam builds production software and deploys AI teams that actually run your operations. Not demos. Not prototypes. Real systems, shipping real results, under real human leadership.</p>
     <div class="hero-cta">
-      <a href="#contact" class="btn btn-primary">Book a Session</a>
+      <a href="#contact" class="btn btn-primary">Set Up a Session</a>
       <a href="https://www.youtube.com/@NexHamCorp" class="btn btn-outline" target="_blank" rel="noopener noreferrer">See the Work</a>
     </div>
   </div>
@@ -60,7 +60,7 @@ description: "NexHam builds production software and deploys AI-powered teams for
       <div class="service-card">
         <div class="service-icon">01</div>
         <h3>CoWork Install</h3>
-        <p>Claude Desktop configured for your team — MCPs wired to your tools, startup instructions tuned for your workflows, and a personalized dashboard deployed and gated. Done remotely in a 2-hour session. /seat.</p>
+        <p>Claude Desktop configured for your team — MCPs wired to your tools, startup instructions tuned for your workflows, and a personalized dashboard deployed and gated. Done remotely in a 2-hour session. $350/seat.</p>
       </div>
       <div class="service-card">
         <div class="service-icon">02</div>
@@ -128,7 +128,7 @@ description: "NexHam builds production software and deploys AI-powered teams for
     <div class="section-header">
       <h2>Built Different</h2>
     </div>
-    <p>NexHam is a software and AI consulting firm based in Kansas City, founded by Darren Hamilton. After 25 years leading IT teams in healthcare technology, Darren saw what most AI consultants get wrong: they sell the technology without the discipline to make it actually work in a real business.</p>
+    <p>NexHam is a software and AI consulting firm based in Kansas City, founded by Darren Hamilton. After 40+ years in technology, including leading IT teams in healthcare, Darren saw what most AI consultants get wrong: they sell the technology without the discipline to make it actually work in a real business.</p>
     <p>NexHam's approach starts with team structure, accountability, and process. The AI teams follow defined operating standards, track their own work, communicate across sessions, and give leadership a real-time dashboard of what's happening. The result looks less like "we installed an AI tool" and more like "we hired a team that never sleeps." If you want to see the system before booking a call, the AI Deployed course documents the exact architecture — <a href="https://store.nexhamcorp.com">store.nexhamcorp.com →</a></p>
   </div>
 </section>
@@ -139,7 +139,7 @@ description: "NexHam builds production software and deploys AI-powered teams for
       <h2>Let's Talk</h2>
       <p>No pitch. Just an honest 30-minute call to figure out whether AI is the right move for your team right now.</p>
     </div>
-    <a href="mailto:hello@nexhamcorp.com" class="btn btn-primary" style="display:inline-block;margin-bottom:16px;">Book a Session</a>
+    <a href="mailto:hello@nexhamcorp.com" class="btn btn-primary" style="display:inline-block;margin-bottom:16px;">Email Us to Set Up a Session</a>
     <br>
     <a href="mailto:hello@nexhamcorp.com" class="email-link">hello@nexhamcorp.com</a>
   </div>
