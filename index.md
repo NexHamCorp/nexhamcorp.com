@@ -9,8 +9,8 @@ description: "NexHam builds production software and deploys AI-powered teams for
     <h1>Software that works.<br><span class="accent">AI that delivers.</span></h1>
     <p>NexHam builds production software and deploys AI teams that actually run your operations. Not demos. Not prototypes. Real systems, shipping real results, under real human leadership.</p>
     <div class="hero-cta">
-      <a href="#contact" class="btn btn-primary">Set Up a Session</a>
-      <a href="https://www.youtube.com/@NexHamCorp" class="btn btn-outline" target="_blank" rel="noopener noreferrer">See the Work</a>
+      <a href="https://n8n.nexhamcorp.com/webhook/ai-audit-checklist" class="btn btn-primary" target="_blank" rel="noopener noreferrer">Take the Free AI Readiness Audit</a>
+      <a href="#contact" class="btn btn-outline">Set Up a Session</a>
     </div>
   </div>
 </section>
