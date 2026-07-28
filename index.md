@@ -78,18 +78,10 @@ description: "NexHam builds production software and deploys AI-powered teams for
     </div>
     <div class="proof-content">
       <div class="proof-text">
-        <p>NexHam runs on the same model we deploy for clients. Seven specialized AI sessions coordinate daily across consulting, marketing, development, and operations — each with defined roles, persistent memory, and real deliverables shipping every week.</p>
+        <p>NexHam runs on the same model we deploy for clients. A team of specialized AI sessions across multiple platforms coordinate daily across consulting, marketing, development, and operations — each with defined roles, persistent memory, and real deliverables shipping every week.</p>
         <p>It's not a demo or a proof of concept. It's a live business running 24/7 on the exact architecture we build for clients. When we say the model works, we're showing you, not telling you.</p>
       </div>
       <div class="proof-stats">
-        <div class="stat">
-          <span class="stat-number">4</span>
-          <span class="stat-label">Platforms</span>
-        </div>
-        <div class="stat">
-          <span class="stat-number">7</span>
-          <span class="stat-label">AI Sessions</span>
-        </div>
         <div class="stat">
           <span class="stat-number">24/7</span>
           <span class="stat-label">Operations</span>
