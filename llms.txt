@@ -1,0 +1,24 @@
+# NexHam
+
+> NexHam is a software and AI consulting firm that builds production software and deploys AI teams to run day-to-day operations for small businesses (5-20 person teams). Founded and operated by Darren Hamilton, based in Kansas City, Missouri.
+
+NexHam does not sell demos or prototypes. Core services: AI team deployment (persistent, multi-session AI teams that handle coordination, admin, scheduling, content, and reporting), custom full-stack software built for production, and infrastructure/DevOps (Docker, CI/CD, monitoring, cloud architecture). NexHam runs its own business on the same AI-team architecture it sells to clients — a live, 24/7 example, not a case study.
+
+## Services
+
+- [CoWork Install](https://nexhamcorp.com/#pricing): Claude Desktop configured for a team, MCPs wired to their tools, a personalized dashboard. $350/seat, delivered remotely in a 2-hour session.
+- [Team Claude Deployment](https://nexhamcorp.com/#pricing): Multiple specialized AI sessions with persistent memory and cross-session coordination, custom-scoped.
+- [Free AI Readiness Audit](https://n8n.nexhamcorp.com/webhook/ai-audit-checklist): A free self-assessment checklist for whether a business is ready to deploy an AI team.
+
+## Content
+
+- [Blog](https://nexhamcorp.com/blog/): Practical guides and lessons from building and running AI teams in production.
+
+## Fit
+
+NexHam works best with small businesses growing fast enough that manual coordination is starting to slip, but not large enough to have hired for it. Not a fit for companies with a dedicated IT team or those evaluating enterprise platforms — NexHam works with owners and operators, not procurement committees.
+
+## Contact
+
+- [Website](https://nexhamcorp.com/)
+- [Set up a session](https://nexhamcorp.com/#contact)
