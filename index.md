@@ -5,7 +5,8 @@ description: "NexHam builds production software and deploys AI-powered teams for
 ---
 
 <section class="hero">
-  <div class="container">
+  <div class="shader-layer" aria-hidden="true" data-shader-hero data-shader-lib="{{ '/assets/js/vendor/paper-mesh-0.0.81.min.js' | relative_url }}" data-shader='{"colors":["#1A1D24","#2C313C","#1A1D24","#5E402C"],"speed":0.15,"frame":20000,"uniforms":{"u_distortion":0.8,"u_swirl":0.25,"u_grainMixer":0,"u_grainOverlay":0.05}}'></div>
+  <div class="container hero-inner">
     <h1>Software that works.<br><span class="accent">AI that delivers.</span></h1>
     <p>NexHam builds production software and deploys AI teams that actually run your operations. Not demos. Not prototypes. Real systems, shipping real results, under real human leadership.</p>
     <div class="hero-cta">
@@ -136,3 +137,5 @@ description: "NexHam builds production software and deploys AI-powered teams for
     <a href="mailto:hello@nexhamcorp.com" class="email-link">hello@nexhamcorp.com</a>
   </div>
 </section>
+
+<script type="module" src="{{ '/assets/js/shader-hero.js' | relative_url }}"></script>

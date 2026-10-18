@@ -126,8 +126,29 @@ section {
 
 /* ---- Hero ---- */
 .hero {
+  position: relative;
+  overflow: hidden;
   padding: 10rem 1.5rem 6rem;
   text-align: center;
+}
+
+/* Hero shader background (NX-1 Forge Mesh): sits under the copy, fades out at the bottom edge */
+.hero .shader-layer {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  -webkit-mask-image: linear-gradient(180deg, #000 0%, #000 72%, transparent 100%);
+          mask-image: linear-gradient(180deg, #000 0%, #000 72%, transparent 100%);
+}
+.hero .hero-inner { position: relative; z-index: 2; }
+/* soft charcoal pool behind the copy keeps text above WCAG AA at any shader frame */
+.hero .hero-inner::before {
+  content: '';
+  position: absolute;
+  z-index: -1;
+  inset: -40px -120px;
+  pointer-events: none;
+  background: radial-gradient(closest-side, rgba(26,26,26,.78), rgba(26,26,26,0));
 }
 
 .hero h1 {
